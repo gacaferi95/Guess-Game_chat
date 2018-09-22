@@ -1,0 +1,4 @@
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\RemoteBase\bin\Release\RemoteBase.dll
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\RemoteBase\bin\Release\RemoteBase.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\RemoteBase\obj\Release\RemoteBase.dll
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\RemoteBase\obj\Release\RemoteBase.pdb

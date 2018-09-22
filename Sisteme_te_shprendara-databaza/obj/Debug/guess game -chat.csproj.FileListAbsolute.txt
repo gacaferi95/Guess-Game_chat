@@ -1,0 +1,3 @@
+C:\Users\Tonni\Downloads\Guess Game & chat (multiplayer)\Sisteme_te_shprendara-databaza\bin\Debug\Sisteme_te_shprendara-databaza.exe.config
+C:\Users\Tonni\Downloads\Guess Game & chat (multiplayer)\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.exe
+C:\Users\Tonni\Downloads\Guess Game & chat (multiplayer)\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.pdb

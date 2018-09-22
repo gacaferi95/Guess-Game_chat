@@ -1,0 +1,9 @@
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

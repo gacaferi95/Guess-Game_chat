@@ -1,0 +1,5 @@
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\RemoteBase\bin\Debug\RemoteBase.dll
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\RemoteBase\bin\Debug\RemoteBase.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\RemoteBase\obj\Debug\RemoteBase.csprojResolveAssemblyReference.cache
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\RemoteBase\obj\Debug\RemoteBase.dll
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteBase\RemoteBase\obj\Debug\RemoteBase.pdb

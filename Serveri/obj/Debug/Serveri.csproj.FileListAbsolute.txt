@@ -1,0 +1,16 @@
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\Serveri\bin\Serveri.dll
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\Serveri\bin\Serveri.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\Serveri\obj\Debug\Serveri.dll
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\Serveri\obj\Debug\Serveri.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\Serveri\obj\Debug\Serveri.csprojResolveAssemblyReference.cache
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Serveri\bin\Serveri.dll
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Serveri\bin\Serveri.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Serveri\obj\Debug\Serveri.csprojResolveAssemblyReference.cache
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Serveri\obj\Debug\Serveri.dll
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Serveri\obj\Debug\Serveri.pdb
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Serveri\bin\Serveri.dll.config
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Serveri\bin\Serveri.dll
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Serveri\bin\Serveri.pdb
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Serveri\obj\Debug\Serveri.csprojResolveAssemblyReference.cache
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Serveri\obj\Debug\Serveri.dll
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Serveri\obj\Debug\Serveri.pdb

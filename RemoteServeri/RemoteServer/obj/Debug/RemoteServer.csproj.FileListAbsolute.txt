@@ -1,0 +1,52 @@
+C:\Users\Arber\Desktop\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\Arber\Desktop\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+C:\Users\Arber\Desktop\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\Users\Arber\Desktop\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\Users\Arber\Desktop\chatroom-new\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\Arber\Desktop\chatroom-new\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\Arber\Desktop\chatroom-new\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+C:\Users\Arber\Desktop\chatroom-new\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+C:\Users\Arber\Desktop\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\Arber\Desktop\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+C:\Users\Arber\Desktop\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\Arber\Desktop\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+C:\Users\Arber\Desktop\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\Arber\Desktop\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\Arber\Desktop\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+C:\Users\Arber\Desktop\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+C:\Users\Arber\Desktop\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\Arber\Desktop\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+C:\Users\Arber\Desktop\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\Users\Arber\Desktop\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\Users\Vio\Desktop\ProjektiPSH\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\Vio\Desktop\ProjektiPSH\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+C:\Users\Vio\Desktop\ProjektiPSH\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\Vio\Desktop\ProjektiPSH\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\Vio\Desktop\ProjektiPSH\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+C:\Users\Vio\Desktop\ProjektiPSH\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+C:\Users\Vio\Desktop\ProjektiPSH\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\Vio\Desktop\ProjektiPSH\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+C:\Users\Vio\Desktop\ProjektiPSH\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\Users\Vio\Desktop\ProjektiPSH\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\ProjektiPSH\ProjektiPSH\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\ProjektiPSH\ProjektiPSH\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\ProjektiPSH\ProjektiPSH\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\ProjektiPSH\ProjektiPSH\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\ProjektiPSH\ProjektiPSH\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\ProjektiPSH\ProjektiPSH\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\ProjektiPSH\ProjektiPSH\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\ProjektiPSH\ProjektiPSH\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\ProjektiPSH\ProjektiPSH\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\ProjektiPSH\ProjektiPSH\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteServeri\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteServeri\RemoteServer\obj\Debug\RemoteServer.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteServeri\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteServeri\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteServeri\RemoteServer\bin\Debug\RemoteBase.dll
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteServeri\RemoteServer\bin\Debug\RemoteBase.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteServeri\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteServeri\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteServeri\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\RemoteServeri\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\RemoteServeri\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\RemoteServeri\RemoteServer\obj\Debug\RemoteServer.pdb

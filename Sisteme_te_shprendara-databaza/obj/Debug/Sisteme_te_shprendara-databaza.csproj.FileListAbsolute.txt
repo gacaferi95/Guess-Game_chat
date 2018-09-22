@@ -1,0 +1,47 @@
+c:\users\toni\documents\visual studio 2012\Projects\Sisteme_te_shprendara-databaza\Sisteme_te_shprendara-databaza\bin\Debug\Sisteme_te_shprendara-databaza.exe.config
+c:\users\toni\documents\visual studio 2012\Projects\Sisteme_te_shprendara-databaza\Sisteme_te_shprendara-databaza\bin\Debug\Sisteme_te_shprendara-databaza.exe
+c:\users\toni\documents\visual studio 2012\Projects\Sisteme_te_shprendara-databaza\Sisteme_te_shprendara-databaza\bin\Debug\Sisteme_te_shprendara-databaza.pdb
+c:\users\toni\documents\visual studio 2012\Projects\Sisteme_te_shprendara-databaza\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.csprojResolveAssemblyReference.cache
+c:\users\toni\documents\visual studio 2012\Projects\Sisteme_te_shprendara-databaza\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.Form1.resources
+c:\users\toni\documents\visual studio 2012\Projects\Sisteme_te_shprendara-databaza\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.Properties.Resources.resources
+c:\users\toni\documents\visual studio 2012\Projects\Sisteme_te_shprendara-databaza\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.csproj.GenerateResource.Cache
+c:\users\toni\documents\visual studio 2012\Projects\Sisteme_te_shprendara-databaza\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.exe
+c:\users\toni\documents\visual studio 2012\Projects\Sisteme_te_shprendara-databaza\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.Login.resources
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.loja.resources
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\Sisteme_te_shprendara-databaza\bin\Debug\RemoteBase.dll
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\Sisteme_te_shprendara-databaza\bin\Debug\RemoteBase.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.Kush_ka_lujatur.resources
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\bin\Debug\Sisteme_te_shprendara-databaza.exe.config
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.exe
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\bin\Debug\Sisteme_te_shprendara-databaza.exe
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\bin\Debug\Sisteme_te_shprendara-databaza.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\bin\Debug\RemoteBase.dll
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\bin\Debug\RemoteBase.pdb
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.csprojResolveAssemblyReference.cache
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.Form1.resources
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.Kush_ka_lujatur.resources
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.Login.resources
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.loja.resources
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.Properties.Resources.resources
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.csproj.GenerateResource.Cache
+C:\Users\TONI\Documents\Visual Studio 2012\Projects\Sisteme_te_shprendara-databaza-v_2\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.Rezultatet.resources
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\bin\Debug\Sisteme_te_shprendara-databaza.exe.config
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.exe
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.pdb
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\bin\Debug\Sisteme_te_shprendara-databaza.exe
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\bin\Debug\Sisteme_te_shprendara-databaza.pdb
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\bin\Debug\RemoteBase.dll
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\bin\Debug\RemoteBase.pdb
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.csprojResolveAssemblyReference.cache
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.Form1.resources
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.Kush_ka_lujatur.resources
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.Login.resources
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.loja.resources
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.Properties.Resources.resources
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara_databaza.Rezultatet.resources
+C:\Users\Tonni\Downloads\Sisteme_te_shprendara-databaza-v_3\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.csproj.GenerateResource.Cache
+C:\Users\Tonni\Downloads\Guess Game & chat (multiplayer)\Sisteme_te_shprendara-databaza\bin\Debug\Sisteme_te_shprendara-databaza.exe.config
+C:\Users\Tonni\Downloads\Guess Game & chat (multiplayer)\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.exe
+C:\Users\Tonni\Downloads\Guess Game & chat (multiplayer)\Sisteme_te_shprendara-databaza\obj\Debug\Sisteme_te_shprendara-databaza.pdb

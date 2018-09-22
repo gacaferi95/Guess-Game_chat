@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="Regjistrohu">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="emri" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="mbiemri" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="gjinia" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="datelindja" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="passwordi" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RegjistrohuResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="RegjistrohuResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Kyqu">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="KyquResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="KyquResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Rezultatet">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="lojtari_1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="lojtar_2" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="rezul_1" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="rezul_2" type="s:float" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RezultatetResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="RezultatetResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Kush_ka_luajtur">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Kush_ka_luajturResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Kush_ka_luajturResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="update_rezultati">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="lojtari_1" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="rezul_2" type="s:float" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="update_rezultatiResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="update_rezultatiResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="selekto_Rezultatet">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="selekto_RezultatetResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="selekto_RezultatetResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="RegjistrohuSoapIn">
+    <wsdl:part name="parameters" element="tns:Regjistrohu" />
+  </wsdl:message>
+  <wsdl:message name="RegjistrohuSoapOut">
+    <wsdl:part name="parameters" element="tns:RegjistrohuResponse" />
+  </wsdl:message>
+  <wsdl:message name="KyquSoapIn">
+    <wsdl:part name="parameters" element="tns:Kyqu" />
+  </wsdl:message>
+  <wsdl:message name="KyquSoapOut">
+    <wsdl:part name="parameters" element="tns:KyquResponse" />
+  </wsdl:message>
+  <wsdl:message name="RezultatetSoapIn">
+    <wsdl:part name="parameters" element="tns:Rezultatet" />
+  </wsdl:message>
+  <wsdl:message name="RezultatetSoapOut">
+    <wsdl:part name="parameters" element="tns:RezultatetResponse" />
+  </wsdl:message>
+  <wsdl:message name="Kush_ka_luajturSoapIn">
+    <wsdl:part name="parameters" element="tns:Kush_ka_luajtur" />
+  </wsdl:message>
+  <wsdl:message name="Kush_ka_luajturSoapOut">
+    <wsdl:part name="parameters" element="tns:Kush_ka_luajturResponse" />
+  </wsdl:message>
+  <wsdl:message name="update_rezultatiSoapIn">
+    <wsdl:part name="parameters" element="tns:update_rezultati" />
+  </wsdl:message>
+  <wsdl:message name="update_rezultatiSoapOut">
+    <wsdl:part name="parameters" element="tns:update_rezultatiResponse" />
+  </wsdl:message>
+  <wsdl:message name="selekto_RezultatetSoapIn">
+    <wsdl:part name="parameters" element="tns:selekto_Rezultatet" />
+  </wsdl:message>
+  <wsdl:message name="selekto_RezultatetSoapOut">
+    <wsdl:part name="parameters" element="tns:selekto_RezultatetResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SherbimetSoap">
+    <wsdl:operation name="Regjistrohu">
+      <wsdl:input message="tns:RegjistrohuSoapIn" />
+      <wsdl:output message="tns:RegjistrohuSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Kyqu">
+      <wsdl:input message="tns:KyquSoapIn" />
+      <wsdl:output message="tns:KyquSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Rezultatet">
+      <wsdl:input message="tns:RezultatetSoapIn" />
+      <wsdl:output message="tns:RezultatetSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Kush_ka_luajtur">
+      <wsdl:input message="tns:Kush_ka_luajturSoapIn" />
+      <wsdl:output message="tns:Kush_ka_luajturSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="update_rezultati">
+      <wsdl:input message="tns:update_rezultatiSoapIn" />
+      <wsdl:output message="tns:update_rezultatiSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="selekto_Rezultatet">
+      <wsdl:input message="tns:selekto_RezultatetSoapIn" />
+      <wsdl:output message="tns:selekto_RezultatetSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SherbimetSoap" type="tns:SherbimetSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Regjistrohu">
+      <soap:operation soapAction="http://tempuri.org/Regjistrohu" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Kyqu">
+      <soap:operation soapAction="http://tempuri.org/Kyqu" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Rezultatet">
+      <soap:operation soapAction="http://tempuri.org/Rezultatet" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Kush_ka_luajtur">
+      <soap:operation soapAction="http://tempuri.org/Kush_ka_luajtur" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="update_rezultati">
+      <soap:operation soapAction="http://tempuri.org/update_rezultati" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selekto_Rezultatet">
+      <soap:operation soapAction="http://tempuri.org/selekto_Rezultatet" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SherbimetSoap12" type="tns:SherbimetSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Regjistrohu">
+      <soap12:operation soapAction="http://tempuri.org/Regjistrohu" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Kyqu">
+      <soap12:operation soapAction="http://tempuri.org/Kyqu" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Rezultatet">
+      <soap12:operation soapAction="http://tempuri.org/Rezultatet" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Kush_ka_luajtur">
+      <soap12:operation soapAction="http://tempuri.org/Kush_ka_luajtur" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="update_rezultati">
+      <soap12:operation soapAction="http://tempuri.org/update_rezultati" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selekto_Rezultatet">
+      <soap12:operation soapAction="http://tempuri.org/selekto_Rezultatet" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Sherbimet">
+    <wsdl:port name="SherbimetSoap" binding="tns:SherbimetSoap">
+      <soap:address location="http://localhost:2726/Sherbimet.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SherbimetSoap12" binding="tns:SherbimetSoap12">
+      <soap12:address location="http://localhost:2726/Sherbimet.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
